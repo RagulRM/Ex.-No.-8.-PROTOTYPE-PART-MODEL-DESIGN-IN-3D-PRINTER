@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![241852455-1bbe1184-695a-4f7a-b3a5-eada07f605f0](https://github.com/lokeshrahulv/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118423842/e4dc3800-017a-41b2-bebb-38e427a690c4)
+![WhatsApp Image 2023-11-26 at 13 36 50_cc08db91](https://github.com/RagulRM/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121609342/414d695e-7387-419d-86f3-45c3031c68b4)
 
 ### Name: Ragul R
 ### Register Number: 212222100040
