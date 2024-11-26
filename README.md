@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![WhatsApp Image 2023-11-26 at 13 36 50_cc08db91](https://github.com/RagulRM/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121609342/414d695e-7387-419d-86f3-45c3031c68b4)
+![Uploading image.png…]()
 
 ### Name: Ragul R
 ### Register Number: 212222100040
