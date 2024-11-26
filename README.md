@@ -46,7 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/25918a29-1890-44e2-8339-9dcdda445799)
+
 
 ### Name: Ragul R
 ### Register Number: 212222100040
